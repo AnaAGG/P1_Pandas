@@ -93,4 +93,4 @@ def species (col):
         return "Bull shark"
     
     else:
-        return "Unespcific"
+        return "Unespecific"
