@@ -74,10 +74,10 @@ This is a collection of both Nan and fresh data, here before performing the anal
 
 - **List of functions used**
     - `replace_sex`: to replace all the erroneous coding informmation in the data frame. 
-    - `replace_mean_age`: to replace this values by the mean age of all the data we have
-    - `continents` to create a new column with continent information
-    - `injury` to replace erroneous data for NaN
-    - `species` to clear the species columns and extract the five most dangerous species using *regex*
+    - `replace_mean_age`: to replace this values by the mean age of all the data we have.
+    - `continents` to create a new column with continent information.
+    - `injury` to replace erroneous data for NaN.
+    - `species` to clear the species columns and extract the five most dangerous species using *regex*.
 
 
 ## Data visualization and Results
