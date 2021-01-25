@@ -50,21 +50,15 @@ This is a collection of both Nan and fresh data, here before performing the anal
 
     After data cleaning I worked with a Data Frame with 8703 rowns and 15 columns.
 
-    | List of variables | 
-    |:--------------------:|
-    |Date (months) |
-    |Year | 
-    |Type of attack|
-    |Country|
-    |Area|
-    |Location|
-    |Activity|
-    |Sex|
-    |Fatal (Y/N)|
-    |Age|
-    |Time|
-    |Species|
-    |Continent|
+|Variable |list |
+|:---:| --- |
+| Date (months) | Activity |
+| Year | Area |
+| Type of attack| Location |
+| Country | Sex|
+|Fatal (Y/N) | Age |
+|Time | Species | 
+|Continent|
 
 
 - **Convert Data Types**
