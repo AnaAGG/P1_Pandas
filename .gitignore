@@ -2,3 +2,10 @@ data/attacks.csv
 .ipynb_checkpoints/
 debug.log
 output/testing.ipynb
+output/Ages.csv
+output/df3.ages.csv
+output/gender.raw
+output/sex.csv
+output/testing.xlsx
+output/time.jpg
+output/tsting_2.csv
