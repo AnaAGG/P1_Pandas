@@ -84,34 +84,33 @@ This is a collection of both Nan and fresh data, here before performing the anal
 
 **1. Main Hypothesis: Is Oceania the most dangerous and lethal place to relaxing by the beach?**
 
-The results showed that in 2018 (the last year with available data), Oceania present the higher number of attacks (12) followed by far by North America (3). In 2017 this pattern was inverted and North America presented more sharks attacks (21) than Ocenia (12). However, when we plotted the number of attacks by continent we clearly shown that Oceania is the most dangerous to enjoy safely in the beach.
+The results showed that in 2018 (the last year with available data), Oceania present the higher number of attacks (12) followed by far by North America (3). In 2017 this pattern was inverted and North America presented more sharks attacks (21) than Ocenia (12). However, when we plotted the number of attacks by continent we clearly shown that Oceania is the most dangerous to enjoy safely in the beach(Fig_1).
 
+Then I tried to know is if there are differences in the activity that the attacked were carrying out. The hypothesis can be raised that surfers are those who attack the most. In this case, the Fig_2 indicated that this hypothesis is true.  
  
 **2. Hypothesis: What is the age range with the most shark attacks? Regardless of age, are there more attacks in men? My hypothesis:young people are mor attacked,  men are more attacked** 
 
 Firstly, the result showed that there are a peak of attacks in ages around 28. In addition, we found that men were more attacked by sharks within the studied period. 
 
+Fewer women suffer lethal attacks than men, but this may be related to the higher number of men attacked (Fig_3).
+
 **3. Hypothesis: when there are more sharks attacks? My hypothesis: during the morning** 
 
-My hypothesis was rejected, because the peak of attacks occurs during the afternoon. This could be explained because during the afternoon there are more people in the beach. 
+My hypothesis was rejected, because the peak of attacks occurs during the afternoon. This could be explained because during the afternoon there are more people in the beach (Fig_4). 
 
-![figuretime](C:\Users\agarc\Bootcamp_IronHack\Proyectos\P1_Pandas_Visualization\output)
-
-**4. Which is the relation between species and type of attacks/**
+**4. Which is the relation between species and type of attacks/Fatal/Time**
 
 - 4.1 Species *vs* type of attacks:
 
-In general, the sharks attacks are provoked for all species excet for Whithe shark that attack more to boats.
+In general, the sharks attacks are provoked for all species excet for Whithe shark that attack more to boats(Fig_5).
 
-![figtype](C:\Users\agarc\Bootcamp_IronHack\Proyectos\P1_Pandas_Visualization\output)
 
 - 4.2 Species *vs* Fatal attacks:
 
-Regardless of species, attacks are not lethal
+Regardless of species, attacks are not lethal (Fig_6)
 
 
 - 4.3 Species *vs* Time:
 
-All species attacks during the afternoon
+All species attacks during the afternoon (Fig_7)
 
-![figTime]
