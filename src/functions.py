@@ -94,3 +94,18 @@ def species (col):
     
     else:
         return "Unespecific"
+
+def species2 (col):
+    diccionario = {
+    "white" : re.search(r".*[Ww](hite|HITE).*", str(col)),
+    "tiger" : re.search(r'.*[Tt].*', str(col)), 
+    "grey" : re.search(r'.*[Gg](rey|ray).*', str(col)),
+    "lemon" : re.search(r'.*[Ll].*', str(col)),
+    "bull" : re.search(r'.*[Bb](ull).*', str(col))
+
+    } 
+    for k,v in diccionario.items():
+        if v == True:
+            return k
+        else:
+            return col
